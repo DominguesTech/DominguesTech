@@ -17,9 +17,8 @@
   <a href="https://github.com/DominguesTech">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DominguesTech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominguesTech&layout=compact&langs_count=7&theme=white"/>
+  <h4> My social medias </h2>
 </div>
-
-##
  
 <div align="center">
   <a href="https://www.instagram.com/domingues_tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
