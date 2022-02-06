@@ -19,9 +19,9 @@
 
 <div align="center">
   <a href="https://github.com/DominguesTech">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DominguesTech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=DominguesTech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   &nbsp;
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominguesTech&layout=compact&langs_count=7&theme=white"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominguesTech&layout=compact&langs_count=7&theme=white"/>
   <h4> My social medias </h2>
 </div>
  
